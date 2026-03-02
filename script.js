@@ -1,4 +1,6 @@
-
+// git remote add origin https://github.com/dkgujar22/To-do-app.git
+// git branch -M main
+// git push -u origin main
 
 const inputtext=document.getElementById("exampleFormControlInput1");
 const btn=document.getElementById("btn")
@@ -22,3 +24,5 @@ btn.addEventListener('click',()=>{
    
     
 })
+
+
